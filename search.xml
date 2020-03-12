@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>[chaochai]给萌新的一点建议</title>
+    <url>/2020/03/12/chaochai-%E7%BB%99%E8%90%8C%E6%96%B0%E7%9A%84%E4%B8%80%E7%82%B9%E5%BB%BA%E8%AE%AE/</url>
+    <content><![CDATA[<p>Hello大家好！这里是chaochai！</p>
+<p>入坑一个新的事物，难免会遇到一些磕磕绊绊。而我见了不少萌新，他们的问题也是千奇百怪，甚至有不会复制粘贴的……</p>
+<p>下面是我给萌新们的一些建议，基本都取自我的经验，希望能对你们有帮助</p>
+<p>1：<strong><em>\</em>发挥主观能动性**</strong></p>
+<p>虽然不耻下问是最简单直接的办法，但其实90%以上的问题可以靠自己独立解决，不仅效率高而且印象深刻，所以有一个独立思维是很重要的，我很喜欢下面这张图，很多时候你与大佬的差距只是这一点点距离</p>
+<p><a href="/images/ns2020-advice/how-to-ask.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/how-to-ask.png" class="lazyload" title="img"></a> </p>
+<p>问问题的时候也不要问一些没有意义的问题。比如说“请问如何编曲”，你把这个问题丢给谁都没法回答。很多压缩包内有叫“readme”的txt文件，很多软件官网有FAQ，视频网站也有大量教程，这些都可以帮助你自己解决问题。当然，有自己不能解决的问题的时候，还是要问出来，我想总是会得到帮助的吧。</p>
+<p>2：<strong><em>\</em>开始的开始**</strong></p>
+<p>软件叫FL studio不要问我了啊啊啊啊啊啊啊啊啊啊</p>
+<p>目前比较常见的宿主软件有FL studio（易上手），ableton live（强大就对了）和cubase（混音较好——不是指remix），当然还有studio one等宿主软件也很不错。</p>
+<p>关于正版的问题，当然，请支持正版。但是我见了无数三分钟热度的萌新，也见了不少被价格劝退的萌新。所以我现在偏向于建议萌新先使用盗版，日后再补票（购买正版）。至于盗版在哪……自己去找，fl安装包大概为600+mb，你可以通过大小判断下是不是病毒。</p>
+<p>像这种写着隐隐约约的“广告”的就不用点进去看了</p>
+<p><a href="/images/ns2020-advice/2.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/2.png" class="lazyload" title="img"></a> </p>
+<p> 关于汉化：其实我并不赞成用汉化，第一你的软件会变得不稳定，第二很多专业名词你依然看不懂，还要学。不过如果你真的连“save”都不认识的话，用一段时间的汉化对熟悉软件很有帮助。</p>
+<p>3：<strong><em>\</em>开始学习**</strong></p>
+<p>“我想学编曲，但我不想看教程”</p>
+<p>只要你想学某样东西，教程就是必不可少的。</p>
+<p>首先要学会的是软件的操作方法，越熟悉越好。当你熟悉编曲软件的“插件寄宿于宿主”的架构时大多数宿主也都很容易学习了。还可以去记一些快捷键，以后可以大幅提升你的工作效率。</p>
+<p><a href="/images/ns2020-advice/3.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/3.png" class="lazyload" title="img"></a> </p>
+<p>在这之后，你需要学习乐理（不然你编的曲会和我一样糟），乐理同样是必会的基础。不要问“学到多少合适”，知识永远越多越好。</p>
+<p>在之后就是多听歌，学一学一些风格的特征，多练习。在这个时候已经没有了真正意义上的“教程”</p>
+<p><strong><em>\</em>编曲是一个创造性的活动，所以它是无法传授的**</strong></p>
+<p>所以，能做出怎么样的作品，只能靠你多听，多看，多练了。</p>
+<p>4：一些骚操作</p>
+<p>网盘资源搜索，快速下载：<a href="http://pandownload.com/" target="_blank" rel="noopener">网盘下载器pandownload</a></p>
+<p>快速入门：<a href="https:\learningmusic.ableton.com\zh\index.html" target="_blank" rel="noopener">learningmusic</a></p>
+<p>自 动 母 带：<a href="https:\emastered.com\" target="_blank" rel="noopener">专业《母带》制作</a></p>
+<p>格式工厂（转换同类文件格式）：<a href="http://www.pcfreetime.com/formatfactory/CN/download.html" target="_blank" rel="noopener">格式工厂牛逼</a></p>
+<p>WinRAR：<a href="http://www.winrar.com.cn/" target="_blank" rel="noopener">地表最强压缩软件</a></p>
+<p>简单的手动抓包：</p>
+<p>第一步：</p>
+<p><a href="/images/ns2020-advice/4.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/4.png" class="lazyload" title="img"></a> </p>
+<p>或者直接按f12也行</p>
+<p>会弹出这个页面</p>
+<p><a href="/images/ns2020-advice/5.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/5.png" class="lazyload" title="img"></a> </p>
+<p>点介个</p>
+<p><a href="/images/ns2020-advice/6.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/6.png" class="lazyload" title="img"></a> </p>
+<p><a href="/images/ns2020-advice/7.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/7.png" class="lazyload" title="img"></a> </p>
+<p>第二步：按f5刷新页面</p>
+<p>第三步：播放你想下载的音频（或者别的任何玩意，视频一般是不行的，因为大多视频网站采用流媒体，视频是一小节一小节输送的）</p>
+<p>第四步：在下面的列表里找到明显是媒体文件的东西</p>
+<p><a href="/images/ns2020-advice/8.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/8.png" class="lazyload" title="img"></a> </p>
+<p>右键，open on a new web</p>
+<p><a href="/images/ns2020-advice/9.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/9.png" class="lazyload" title="img"></a> </p>
+<p>搞定</p>
+<p><a href="/images/ns2020-advice/10.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/10.png" class="lazyload" title="img"></a> </p>
+<p>一般来说打开是这个样子的</p>
+<p><a href="/images/ns2020-advice/11.png" data-fancybox="group" data-caption="img" class="fancybox"><img alt="img" data-src="/images/ns2020-advice/11.png" class="lazyload" title="img"></a> </p>
+<p>点右边的下载即可</p>
+<p>以下是来自<a href="http://music.163.com/artist?id=32831288&userid=561750820" target="_blank" rel="noopener">飞鱼大佬给萌新的建议</a></p>
+<p>“加群945740276 ” 新声-星空广场：694171287</p>
+<p>以下是来自<a href="http://music.163.com/artist?id=13285491&userid=561750820" target="_blank" rel="noopener">茶花梦梦大佬的建议</a></p>
+<p>“建议好好打基础，多听歌”</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello from Newsounds</title>
     <url>/2020/02/08/Newsounds-HelloWorld/</url>
     <content><![CDATA[<h1 id="新声官网向您问好"><a href="#新声官网向您问好" class="headerlink" title="新声官网向您问好"></a>新声官网向您问好</h1><h2 id="A-hello-from-the-website-of-Newsounds-Organization"><a href="#A-hello-from-the-website-of-Newsounds-Organization" class="headerlink" title="A hello from the website of Newsounds Organization"></a>A hello from the website of Newsounds Organization</h2><p>我们是一群热衷于音乐及各类事业的年轻人，创办这个网站，是为了寻找更多交流的同好。<br>在这个网站上，会发布一些关于音乐制作及其他衍生科目的学习资料，希望您能够正确、合理地利用，切勿侵权。所有原创文章、视频、音乐、示例均采用CC协议授权。</p>
